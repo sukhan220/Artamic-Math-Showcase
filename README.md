@@ -1,5 +1,10 @@
+
 # Artamic Math Showcase
-[ভিডিও দেখুন](https://github.com/user-attachments/assets/আপনার-ভিডিও-লিংক)
+
+https://github.com/user-attachments/assets/9d129435-9a4f-4769-abda-a501718fb734
+
+
+
 
 An interactive mathematics visualization and proof studio built with Next.js, TypeScript, Three.js, and Canvas.
 
