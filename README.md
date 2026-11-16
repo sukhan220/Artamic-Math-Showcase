@@ -1,13 +1,18 @@
 
+
 # Artamic Math Showcase
 
 **Website:** [artamic-math.vercel.app](https://artamic-math.vercel.app/)
 
 <p align="center">
   <a href="https://artamic-math.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/9d129435-9a4f-4769-abda-a501718fb734" alt="Artamic Math logo" width="720" />
+<img width="1720" height="608" alt="Gemini_Generated_Image_qskumwqskumwqsku" src="https://github.com/user-attachments/assets/f286cf9a-d265-45cc-936f-24c9678fdf35" />
   </a>
 </p>
+
+
+
+https://github.com/user-attachments/assets/13da3f05-e387-4489-b20a-8f1097bd1c9c
 
 
 An interactive mathematics visualization and proof studio built with Next.js, TypeScript, Three.js, and Canvas.
@@ -23,6 +28,5 @@ Artamic Math is an evolving educational platform that bridges abstract mathemati
 - **Calculus & Linear Algebra** — Investigate function behavior, vector spaces, and dynamic transformations.
 - **Euclidean Geometry** — Follow interactive, step-by-step geometric proofs.
 
-## Project Video
 
-[▶ Watch the Artamic Math showcase](./Video%20Project%2028.mp4)
+
